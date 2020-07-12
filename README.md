@@ -1,5 +1,5 @@
 
-![Custom Ink](https://user-images.githubusercontent.com/2381/87245863-23ac2e80-c417-11ea-931c-3f8d981a56c3.jpg)
+![Custom Ink](https://user-images.githubusercontent.com/2381/87246075-c87b3b80-c418-11ea-98c9-0ac57e41a75f.jpg)
 
 <a href="https://github.com/customink/lamby">
   <img src="https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=customink&repo=lamby" alt="Lamby GitHub Repo" align="left">

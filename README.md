@@ -1,11 +1,11 @@
 
 ![Custom Ink](https://user-images.githubusercontent.com/2381/87233498-084d0f00-c396-11ea-9d3d-f7f6167ce5f9.png)
 
-<a href="https://lamby.custominktech.com">
-  <img src="https://user-images.githubusercontent.com/2381/87233134-cb334d80-c392-11ea-8f9c-3253d0df90fa.png" width="400" alt="Lamby: Simple Rails & AWS Lambda Integration" align="left">
-</a>
 <a href="https://github.com/customink/lamby">
-  <img src="https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=customink&repo=lamby" alt="Lamby GitHub Repo" align="right">
+  <img src="https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=customink&repo=lamby" alt="Lamby GitHub Repo" align="left">
+</a>
+<a href="https://lamby.custominktech.com">
+  <img src="https://user-images.githubusercontent.com/2381/87233134-cb334d80-c392-11ea-8f9c-3253d0df90fa.png" width="400" alt="Lamby: Simple Rails & AWS Lambda Integration" align="right">
 </a>
 <table><tbody><tr><th></th></tr></tbody></table>
 <a href="https://github.com/customink/mysql2-lambda">

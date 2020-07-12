@@ -1,6 +1,4 @@
 
-## Thanks Custom Ink 🐙 Tech!
-
 ![Custom Ink](https://user-images.githubusercontent.com/2381/87233498-084d0f00-c396-11ea-9d3d-f7f6167ce5f9.png)
 
 <a href="https://lamby.custominktech.com">

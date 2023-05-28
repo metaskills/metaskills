@@ -1,5 +1,5 @@
 
-![Custom Ink](https://user-images.githubusercontent.com/2381/87246411-50624500-c41b-11ea-946d-de0e81142b3b.jpg)
+![Custom Ink](./header-small.png)
 
 # 🚂 Rails on Lambda
 

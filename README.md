@@ -1,6 +1,10 @@
 
 ![Custom Ink](./header-small.png)
 
+# ✏️ unREMARKABLE.ai
+
+![Tomorrow's AI, Made Today!](./unremarkable-banner.png)
+
 # 🚂 Rails on Lambda
 
 ![Simple Rails & AWS Lambda Integration using Rack](./lamby-rails-arch-dark.png#gh-dark-mode-only)
@@ -12,12 +16,13 @@ Simple Rails & AWS Lambda Integration using Rack. Event-driven and deeply integr
 
 # 🐣 Twitter
 
-https://twitter.com/metaskills
+* https://twitter.com/metaskills
 
 # 📚 Writing
 
-https://dev.to/metaskills
+* https://unremarkable.ai
+* https://dev.to/metaskills
 
-# 🎬 Decks
+# 🎬 Speaking
 
-https://speakerdeck.com/metaskills
+* https://speakerdeck.com/metaskills

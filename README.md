@@ -4,7 +4,7 @@
 
 # ✏️ unREMARKABLE.ai
 
-[![Tomorrow's AI, Made Today!](./unremarkable-banner.png)](https://unremarkable.ai)
+[![Tomorrow's AI, Made Today!](./unremarkable-banner-rounded.png)](https://unremarkable.ai)
 
 # 🚂 Rails on Lambda
 

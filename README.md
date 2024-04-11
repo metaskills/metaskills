@@ -15,7 +15,11 @@
 
 Simple Rails & AWS Lambda Integration using Rack. Event-driven and deeply integrated within AWS, Lambda allows your Rails architecture to be completely re-imagined atop fully managed infrastructure resources like Aurora, SQS, S3, CloudWatch, IAM, and much more. Using Lamby can help your engineering teams learn to "program the cloud".
 
-# 🐣 Twitter
+# 🔗 Linkedin
+
+* https://www.linkedin.com/in/metaskills/
+
+# ❌/🐣 X/Twitter 
 
 * https://twitter.com/metaskills
 

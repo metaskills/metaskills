@@ -1,6 +1,6 @@
 [![AWS Serverless HEROES!](./aws-hero-banner.png)](https://aws.amazon.com/developer/community/heroes/ken-collins/)
 
-[![Custom Ink](./header-small.png)](https://www.customink.com)
+[![Randstad Digital](./linked-header.jpg)](https://www.randstaddigital.com)
 
 # ✏️ unREMARKABLE.ai
 

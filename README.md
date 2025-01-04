@@ -19,9 +19,10 @@ Simple Rails & AWS Lambda Integration using Rack. Event-driven and deeply integr
 
 * https://www.linkedin.com/in/metaskills/
 
-# ❌/🐣 X/Twitter 
+# 💬 Socials
 
-* https://twitter.com/metaskills
+* 🦋 Bluesky - https://bsky.app/profile/unremarkable.ai
+* ❌ Twitter - https://twitter.com/metaskills
 
 # 📚 Writing
 
